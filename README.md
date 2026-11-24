@@ -1,17 +1,46 @@
-# tabar3
+# Tabar3 – Application de dons
 
-A new Flutter project.
+## Présentation du projet
+Tabar3 est une application mobile développée avec Flutter. Elle vise à faciliter les dons et à mettre en relation les donateurs avec les centres bénéficiaires.
 
-## Getting Started
+## Jalon J1 – Le squelette
 
-This project is a starting point for a Flutter application.
+### Écrans de l'application
+- Accueil
+- Détail Centre
+- Rendez-vous
+- Confirmation
+- Historique
 
-A few resources to get you started if this is your first Flutter project:
+### Navigation
+Accueil → Détail Centre → Rendez-vous → Confirmation → Historique
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Technologies utilisées
+- Flutter
+- Dart
+- Material Design
+- Git et GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Données
+Les données utilisées dans cette première étape sont fictives et définies localement dans le projet.
+
+### Répartition du travail
+Projet réalisé individuellement.
+
+### Captures d'écran
+### 1. Écran Accueil
+![Accueil](screenshots/accueil.png)
+
+### 2. Écran Détail Centre
+![Détail Centre](screenshots/detail_centre.png)
+
+### 3. Écran Rendez-vous
+![Rendez-vous](screenshots/rendezvous.png)
+
+### 4. Écran Confirmation
+![Confirmation](screenshots/confirmation.png)
+
+### 5. Écran Historique
+![Historique](screenshots/historique.png)
+### État du projet
+Jalon J1 : développement du squelette, des écrans et de la navigation.
