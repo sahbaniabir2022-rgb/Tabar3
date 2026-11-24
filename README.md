@@ -31,7 +31,7 @@ L'application contient cinq écrans principaux :
 
 Le parcours principal de navigation est le suivant :
 
-Accueil → Détail Centre → Rendez-vous → Confirmation → Historique
+**Accueil → Détail Centre → Rendez-vous → Confirmation → Historique**
 
 ### 3.3. Structure du projet
 
@@ -60,21 +60,25 @@ Projet réalisé individuellement.
 
 ## 4. Captures d'écran de l'application
 
-### Captures d'écran
-### 1. Écran Accueil
-![Accueil] lib/screenshots/accueil.png
+### 4.1. Écran Accueil
 
-### 2. Écran Détail Centre
-![Détail ]  lib\screenshots\detail_centre.png
+![Accueil](lib/screenshots/accueil.png)
 
-### 3. Écran Rendez-vous
-![Rendez-vous]   lib/screenshots/rendezvous.png
+### 4.2. Écran Détail Centre
 
-### 4. Écran Confirmation
-![Confirmation]  lib/screenshots/confirmation.png
+![Détail Centre](lib/screenshots/detail_centre.png)
 
-### 5. Écran Historique
-![Historique]  lib/screenshots/historique.png
+### 4.3. Écran Rendez-vous
+
+![Rendez-vous](lib/screenshots/rendezvous.png)
+
+### 4.4. Écran Confirmation
+
+![Confirmation](lib/screenshots/confirmation.png)
+
+### 4.5. Écran Historique
+
+![Historique](lib/screenshots/historique.png)
 
 ## 5. État d'avancement
 
